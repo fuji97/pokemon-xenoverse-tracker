@@ -18,3 +18,9 @@ Avvia il gioco con i diritti di amministrazione. Tasto destro sull'icona del gio
 L'installer potrebbe non aver installato correttamente i font necessari. Potete installarli manualmente entrando nella cartella del gioco (tasto destro sull'icona del gioco -> Apri percorso file), aprite la cartella 'Fonts', selezionate tutti i file presenti e cliccate tasto destro -> Installa. Inoltre, se non vedete ancora i font, provate a modificare l'ultima opzione delle impostazioni in modo da forzare un font valido.
 ### Ho lo starter che mi segue
 Il salvataggio è corrotto e molto probabilmente ti darà problemi durante l'avventura, consiglio di cancellare e ricreare il salvataggio.
+### RGSS Player ha smesso di funzionare
+![RGSS Player ha smesso di funzionare](https://user-images.githubusercontent.com/31793552/30238777-3537d898-954e-11e7-8f52-841df9bcbe97.png)
+Sembrerebbe essere un errore legato alla sicurezza dell'eseguibile:
+1. Disattivate eventuali antivirus o malware
+2. [Disattivate il DEP](http://www.thewindowsclub.com/disable-data-execution-prevention)
+3. Cambiate cartella di installazione
