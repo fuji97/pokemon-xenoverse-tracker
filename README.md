@@ -15,4 +15,4 @@ Il sito è attualmente offline a causa del carico elevato, stiamo cercando di ri
 ### Quando cerco di curare i Pokémon in un Centro Pokémon il gioco crasha
 Avvia il gioco con i diritti di amministrazione. Tasto destro sull'icona del gioco -> Proprietà -> Compatibilità -> Esegui questo programma come amministratore
 ### Non si vedono i testi
-L'installer potrebbe non aver installato correttamente i font necessari. Potete installarli manualmente entrando nella cartella del gioco (tasto destro sull'icona del gioco -> Apri percorso file), aprite la cartella 'Fonts', selezionate tutti i file presenti e cliccate tasto destro -> Installal
+L'installer potrebbe non aver installato correttamente i font necessari. Potete installarli manualmente entrando nella cartella del gioco (tasto destro sull'icona del gioco -> Apri percorso file), aprite la cartella 'Fonts', selezionate tutti i file presenti e cliccate tasto destro -> Installa. Inoltre, se non vedete ancora i font, provate a modificare l'ultima opzione delle impostazioni in modo da forzare un font valido.
