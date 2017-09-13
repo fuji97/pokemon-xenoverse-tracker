@@ -13,6 +13,9 @@ Bug tracker ufficiale per Pokémon Xenoverse
 - Verificate di essere con l'ultima versione del gioco.
 
 # FAQ
+### Windows Defender mi vede il gioco come malware!
+Vi allego una [analisi di VirusTotal](https://www.virustotal.com/#/file/d5210be6c3f1a1ee383bd9ee7b2e4f6802ad736c676c51450ae9156a8904bb8b) per verificarne la sicurezza, potete confrontare l'hash o fare il vostro test.
+Se Windows Defender vi blocca l'installazione, disattivatelo temporaneamente fino al termine dell'installazione
 ### Ho lo starter che mi segue
 Il salvataggio è corrotto e molto probabilmente ti darà problemi durante l'avventura, consiglio di cancellare e ricreare il salvataggio.
 ### RGSS Player ha smesso di funzionare
