@@ -1,7 +1,7 @@
 # pokemon-xenoverse-tracker
 Bug tracker ufficiale per Pokémon Xenoverse
 
-## ATTENZIONE: E' consigliato creare un backup manuale del proprio salvataggio dalla cartella "C:\Users\Utente\Saved Games\Xenoverse" prima di installare la patch, in quanto sono pervenute alcune segnalazioni di salvataggio mancante.
+## ATTENZIONE: E' consigliato creare un backup manuale del proprio salvataggio dalla cartella "C:\Users\Utente\Saved Games (Partite Salvate)\Xenoverse" prima di installare la patch, in quanto sono pervenute alcune segnalazioni di salvataggio mancante.
 
 ### Rilasciata la versione 1.0.1: [Download](https://www.xenoteam.it/) - [Changelog](https://github.com/fuji97/pokemon-xenoverse-tracker/releases/tag/1.0.1)
 
