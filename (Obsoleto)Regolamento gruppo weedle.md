@@ -1,6 +1,6 @@
 # [NUOVE REGOLE](https://www.xenoteam.it/rules.php)
 
-##REGOLAMENTO - LEGGETELO
+## REGOLAMENTO - LEGGETELO
 - Questo è il gruppo ufficiale del gioco Pokémon Xenoverse e della pagina WEEDle, per mantenere a stretto contatto gli sviluppatori coi loro fan.
 - Se avete un bug da segnalare, andate qui https://github.com/fuji97/pokemon-xenoverse-tracker, possibilmente integrando con uno screenshot del messaggio di errore e una descrizione completa del punto del gioco in cui vi è comparso e i passaggi per riprodurre lo stesso errore.
 - Niente spam, né ai vostri canali YouTube né alle vostre pagine, siti, forum o altro. Potete chiedere il permesso ad uno degli admin che valuterà se concedervi la possibilità o meno.
