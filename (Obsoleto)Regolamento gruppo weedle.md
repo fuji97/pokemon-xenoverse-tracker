@@ -1,13 +1,13 @@
 # [NUOVE REGOLE](https://www.xenoteam.it/rules.php)
 
-REGOLAMENTO - LEGGETELO
--Questo è il gruppo ufficiale del gioco Pokémon Xenoverse e della pagina WEEDle, per mantenere a stretto contatto gli sviluppatori coi loro fan.
--Se avete un bug da segnalare, andate qui https://github.com/fuji97/pokemon-xenoverse-tracker, possibilmente integrando con uno screenshot del messaggio di errore e una descrizione completa del punto del gioco in cui vi è comparso e i passaggi per riprodurre lo stesso errore.
--Niente spam, né ai vostri canali YouTube né alle vostre pagine, siti, forum o altro. Potete chiedere il permesso ad uno degli admin che valuterà se concedervi la possibilità o meno.
--Niente discussioni inutili o flame, se avete domande da fare prima assicuratevi che nessuno l'abbia già fatta prima di voi.
--Se il vostro post contiene spoiler sul gioco indicatelo in grande prima lasciando spazi prima del contenuto del post in modo che non si veda semplicemente scrollando la bacheca, e postate eventuali pic nei commenti.
--Le tette inviatele pure come messaggio privato agli admin, tranne per Sasso Effe al quale dovete inviare pic di rocce e minarali vari.
--Post che violano queste regole non verranno approvati e commenti messi per aggirare il blocco del post verranno eliminati.
+##REGOLAMENTO - LEGGETELO
+- Questo è il gruppo ufficiale del gioco Pokémon Xenoverse e della pagina WEEDle, per mantenere a stretto contatto gli sviluppatori coi loro fan.
+- Se avete un bug da segnalare, andate qui https://github.com/fuji97/pokemon-xenoverse-tracker, possibilmente integrando con uno screenshot del messaggio di errore e una descrizione completa del punto del gioco in cui vi è comparso e i passaggi per riprodurre lo stesso errore.
+- Niente spam, né ai vostri canali YouTube né alle vostre pagine, siti, forum o altro. Potete chiedere il permesso ad uno degli admin che valuterà se concedervi la possibilità o meno.
+- Niente discussioni inutili o flame, se avete domande da fare prima assicuratevi che nessuno l'abbia già fatta prima di voi.
+- Se il vostro post contiene spoiler sul gioco indicatelo in grande prima lasciando spazi prima del contenuto del post in modo che non si veda semplicemente scrollando la bacheca, e postate eventuali pic nei commenti.
+- Le tette inviatele pure come messaggio privato agli admin, tranne per Sasso Effe al quale dovete inviare pic di rocce e minarali vari.
+- Post che violano queste regole non verranno approvati e commenti messi per aggirare il blocco del post verranno eliminati.
 Tutti noi teniamo a creare e mantenere qui dentro una community vivace, serena e soprattutto unita. Cercate di seguire queste poche, semplici regole, in quanto ci dispiacerebbe molto essere costretti a prendere misure drastiche come il blocco o il ban.
 Per essere ammesso al gruppo, rispondi su facebook alla domanda che conteneva il link che ti ha portato qui scrivendo Trisheraut
 
