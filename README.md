@@ -1,16 +1,11 @@
-# pokemon-xenoverse-tracker
-Bug tracker ufficiale per Pokémon Xenoverse
+# Bug tracker ufficiale per Pokémon Xenoverse
+## [Regole Cross-Community e Linee guida per la segnalazione di errori](https://www.xenoteam.it/rules.php)
 
-## ATTENZIONE: E' consigliato creare un backup manuale del proprio salvataggio dalla cartella "C:\Users\Utente\Saved Games (Partite Salvate)\Xenoverse" prima di installare la patch, in quanto sono pervenute alcune segnalazioni di salvataggio mancante.
+### ATTENZIONE: E' consigliato creare un backup manuale del proprio salvataggio dalla cartella "C:\Users\Utente\Saved Games (Partite Salvate)\Xenoverse" prima di installare la patch, in quanto sono pervenute alcune segnalazioni di salvataggio mancante.
 
-### Rilasciata la versione 1.0.1: [Download](https://www.xenoteam.it/) - [Changelog](https://github.com/fuji97/pokemon-xenoverse-tracker/releases/tag/1.0.1)
+### [Rilasciata la versione 1.0.3](https://github.com/fuji97/pokemon-xenoverse-tracker/releases/tag/1.0.4)
 
-[A questo link](https://github.com/fuji97/pokemon-xenoverse-tracker/issues) potete segnalare tutti i vari bug, problemi o proposte che avete trovato giocando la vostra avventura in Pokémon Xenoverse.
-
-- Verificate che il bug che segnalate non sia già stato segnalato, bui multipli verranno chiusi all'istante.
-- Cercate di caricare più informazioni possibili come log di errori, screenshot e, se possibile, il procedimento per ripete il bug.
-- Leggete le FAQ seguenti, potrebbe già esserci una soluzione temporanea per il bug che vuoi segnalare
-- Verificate di essere con l'ultima versione del gioco.
+[A questo link](https://github.com/fuji97/pokemon-xenoverse-tracker/issues) potete segnalare tutti i vari bug e problemi del gioco, __leggete le [linee guida per la segnalazione degli errori](https://www.xenoteam.it/rules.php)!__
 
 # FAQ
 ### Windows Defender mi vede il gioco come malware!
@@ -25,3 +20,16 @@ Sembrerebbe essere un errore legato alla sicurezza dell'eseguibile:
 1. Disattivate eventuali antivirus o malware
 2. [Disattivate il DEP](http://www.thewindowsclub.com/disable-data-execution-prevention)
 3. Cambiate cartella di installazione
+
+# Link utili
+- [Sito ufficiale di Pokémon Xenoverse](https://www.xenoteam.it)
+- [XenoWiki (Wiki ufficiale di Pokémon Xenoverse)](https://www.xenoteam.it/xenowiki/)
+- [Canale YouTube WEEDle](https://www.youtube.com/user/WEEDleSmokers)
+- [Pagina Facebook WEEDle](https://www.facebook.com/smokeWEEDle/)
+- [Profilo Instagram WEEDle](https://www.instagram.com/weedlechannel/)
+- [Canale Telegram WEEDle](https://t.me/smokeweedle)
+- [Gruppo Telegram WEEDle Fan](https://t.me/weedlefan)
+- [Gruppo Facebook dedicato a Pokémon Xenoverse](https://www.facebook.com/groups/503672406453306/)
+- [Canale YouTube XenoTeam](https://www.youtube.com/channel/UCm3NXbTqIpJeZ4_JCfdRVWA)
+- [Canale Discord WEEDle](https://discord.gg/tCweMtA)
+- [FAQ e Bug Tracker](https://github.com/fuji97/pokemon-xenoverse-tracker)
