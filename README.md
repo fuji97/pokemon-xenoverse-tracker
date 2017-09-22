@@ -31,5 +31,6 @@ Sembrerebbe essere un errore legato alla sicurezza dell'eseguibile:
 - [Gruppo Telegram WEEDle Fan](https://t.me/weedlefan)
 - [Gruppo Facebook dedicato a Pokémon Xenoverse](https://www.facebook.com/groups/503672406453306/)
 - [Canale YouTube XenoTeam](https://www.youtube.com/channel/UCm3NXbTqIpJeZ4_JCfdRVWA)
+- [Canale Telegram XenoTeam](https://xenoteam.it)
 - [Canale Discord WEEDle](https://discord.gg/tCweMtA)
 - [FAQ e Bug Tracker](https://github.com/fuji97/pokemon-xenoverse-tracker)
