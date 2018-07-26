@@ -3,11 +3,15 @@
 
 ### ATTENZIONE: E' consigliato creare un backup manuale del proprio salvataggio dalla cartella "C:\Users\Utente\Saved Games (Partite Salvate)\Xenoverse" prima di installare la patch, in quanto sono pervenute alcune segnalazioni di salvataggio mancante.
 
-### [Rilasciata la versione 1.0.3](https://github.com/fuji97/pokemon-xenoverse-tracker/releases/tag/1.0.4)
+### [Rilasciata la versione 1.2.3](https://github.com/fuji97/pokemon-xenoverse-tracker/releases/tag/1.2.3)
 
 [A questo link](https://github.com/fuji97/pokemon-xenoverse-tracker/issues) potete segnalare tutti i vari bug e problemi del gioco, __leggete le [linee guida per la segnalazione degli errori](https://www.xenoteam.it/rules.php)!__
 
 # FAQ
+### Caricando la partita mi da uno strano errore 'line 178' a causa degli Achievements
+Aggiorna ad una qualsiasi versione superiore (o uguale) alla v1.2.3
+### L'icona del gioco non viene mostrata correttamente
+Disinstalla e reinstalla (i salvataggi non vengono cancellati) una versione uguale o superiore alla 1.2.3
 ### Windows Defender mi vede il gioco come malware!
 Vi allego una [analisi di VirusTotal](https://www.virustotal.com/#/file/d5210be6c3f1a1ee383bd9ee7b2e4f6802ad736c676c51450ae9156a8904bb8b) per verificarne la sicurezza, potete confrontare l'hash o fare il vostro test.
 Se Windows Defender vi blocca l'installazione, [disattivatelo temporaneamente](https://www.aranzulla.it/come-disinstallare-windows-defender-924752.html#chapter1) fino al termine dell'installazione
