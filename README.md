@@ -8,6 +8,8 @@
 [A questo link](https://github.com/fuji97/pokemon-xenoverse-tracker/issues) potete segnalare tutti i vari bug e problemi del gioco, __leggete le [linee guida per la segnalazione degli errori](https://www.xenoteam.it/rules.php)!__
 
 # FAQ
+### Non trovo più le patch inferiori alla 1.2.3 sul sito
+Le patch incrementali per le versioni inferiori alla 1.2.3 sono state rimosse, sw dovete aggiornare a quella versione usate direttamente il Setup completo. 
 ### Installando la patch 1.2.3, mi dice che devo avere la versione 1.2.3 per installarla
 Problema risolto, riscarica la patch dal sito.
 ### Caricando la partita mi da uno strano errore 'line 178' a causa degli Achievements
