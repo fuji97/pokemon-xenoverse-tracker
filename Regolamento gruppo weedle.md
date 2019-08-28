@@ -43,9 +43,6 @@ Per essere ammesso al gruppo, rispondi su facebook alla domanda che conteneva il
 </ol>
 
 Per scaricare la parte 1 e le varie patch (quando vengono rilasciate) andate qui https://github.com/fuji97/pokemon-xenoverse-tracker/releases/latest
-Per tutti gli aggiornamenti su Pokémon Xenoverse seguite il (https://www.youtube.com/channel/UCy15bC0wEaR8Z0R9FluqEtQ)[canale youtube], la (https://www.facebook.com/smokeWEEDle/)[pagina facebook], 
-il (https://www.instagram.com/weedlechannel/)[profilo istangram],
-la pagina dei nostri disegnatori, gli (https://www.facebook.com/elite4artists/)[elite 4],
-i loro canali youtube https://www.youtube.com/channel/UCsMEbekmEYQUkOsafE_pOWw e https://www.youtube.com/channel/UChaCWwfSl1V1cNLZkrHr-DA
-e, soprattutto, il (https://www.youtube.com/channel/UCm3NXbTqIpJeZ4_JCfdRVWA)[canale delle live di debugging]
+Per tutti gli aggiornamenti su Pokémon Xenoverse seguite il <a href="https://www.youtube.com/channel/UCy15bC0wEaR8Z0R9FluqEtQ">canale youtube</a>, la <a href="https://www.facebook.com/smokeWEEDle/">pagina facebook</a>, il <a href="https://www.instagram.com/weedlechannel/">profilo istangram</a>,
+la pagina dei nostri disegnatori, gli <a href="https://www.facebook.com/elite4artists/">elite 4</a>, il loro <a href="https://www.youtube.com/channel/UCsMEbekmEYQUkOsafE_pOWw">canale youtube</a> e, soprattutto, il <a href="https://www.youtube.com/channel/UCm3NXbTqIpJeZ4_JCfdRVWA">canale delle live di debugging</a>.
 
